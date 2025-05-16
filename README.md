@@ -31,7 +31,6 @@ Additionally, the platform includes dynamic UI elements like a gesture-controlle
 
 > 📌 *Click to watch the full demo in action*
 
----
 
 ## 🖼️ Output Snapshots
 
@@ -105,18 +104,6 @@ Additionally, the platform includes dynamic UI elements like a gesture-controlle
 - Buffers fingertip coordinates for realistic drawing
 - Saves input-output pairs to memory for archive review
 - Hotkey support (`Q`, `←`, `→`, `E`) to navigate app
-
-## 🗂️ Folder Structure
-SmartAirCanvas/
-├── assets/ # Demo images and system diagram
-│ ├── draw_demo.png
-│ ├── math_output.png
-│ ├── translation_output.png
-│ └── architecture.png
-│
-├── sample_outputs/
-├── README.md
-├── LICENSE (no code redistribution)
 
 ## 📬 Contact Details
 
