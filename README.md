@@ -27,7 +27,7 @@ Additionally, the platform includes dynamic UI elements like a gesture-controlle
 
 ## 🎥 Demo
 
-[![Watch the demo]](https://drive.google.com/drive/folders/12h2schdDjUq7t5gGyNdhzH8yvmJXiLLX?usp=drive_link)
+[![Watch the demo here]](https://drive.google.com/file/d/1SKZlIaM9irRgqT6_6mfzfyPh-Au9J0Dn/view?usp=drive_link)
 
 > 📌 *Click to watch the full demo in action*
 
