@@ -1,0 +1,11 @@
+SmartAirCanvas/
+├── assets/ # Demo images and system diagram
+│ ├── draw_demo.png
+│ ├── math_output.png
+│ ├── translation_output.png
+│ └── architecture.png
+│
+├── sample_outputs/
+├── README.md
+├── LICENSE
+
