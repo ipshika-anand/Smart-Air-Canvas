@@ -34,7 +34,34 @@ Additionally, the platform includes dynamic UI elements like a gesture-controlle
 ---
 
 ## 🖼️ Output Snapshots
-> Browse snapshots in `/smart_air_canvas_outputs/`
+
+### 🎨 Drawing with Gestures
+![Drawing Demo](assets/draw_demo.png)
+
+### ➗ Math Problem Solving
+![Math Output](assets/math_output.png)
+
+### 🌐 Translation (English → Hindi/Marathi)
+![Translation Output](assets/translation_output.png)
+
+### 🧠 Part-of-Speech Tagging
+![POS Output](assets/pos_output.png)
+
+### 🔊 Text-to-Speech
+![TTS Output](assets/tts_output.png)
+
+### 📐 Shape Detection
+![Shape Detection](assets/shape_detection_output.png)
+
+### 🗂️ Archive Mode View
+![Archive Mode](assets/archive_mode_output.png)
+
+### 🎛️ UI Elements – Color Palette & Pen Tools
+![Color Palette UI](assets/color_palette_ui.png)
+
+### 🧠 System Architecture
+![Architecture](assets/architecture.png)
+
 
 ## 🧠 Tech Stack – How It Powers Smart Air Canvas
 
