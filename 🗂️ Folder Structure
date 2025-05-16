@@ -1,11 +1,14 @@
 SmartAirCanvas/
-├── assets/ # Demo images and system diagram
-│ ├── draw_demo.png
-│ ├── math_output.png
-│ ├── translation_output.png
-│ └── architecture.png
+├── assets/                                # All visuals used in the README
+│   ├── draw_demo.png                      # Real-time drawing via finger gestures
+│   ├── math_output.png                    # AI solves a drawn math equation
+│   ├── translation_output.png             # English word → Hindi & Marathi translation
+│   ├── pos_output.png                     # POS tagging result for a handwritten word
+│   ├── tts_output.png                     # Gesture-triggered text-to-speech output
+│   ├── shape_detection_output.png         # AI identifies drawn shape
+│   ├── archive_mode_output.png            # Input-output archive mode view
+│   ├── color_palette_ui.png               # UI with gesture-based color/pen/eraser modes
+│   └── architecture.png                   # System architecture flow diagram
 │
-├── sample_outputs/
-├── README.md
-├── LICENSE
-
+├── README.md                              # Full documentation, features, and visuals
+├── LICENSE                                # Showcase-only license
