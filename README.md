@@ -27,7 +27,7 @@ Additionally, the platform includes dynamic UI elements like a gesture-controlle
 
 ## 🎥 Demo
 
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+[![Watch the demo](https://www.canva.com/design/DAGktz3lOrc/YDPAABkzksBct2uY9RJh4Q/edit?utm_content=DAGktz3lOrc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://www.canva.com/design/DAGktz3lOrc/YDPAABkzksBct2uY9RJh4Q/edit?utm_content=DAGktz3lOrc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 > 📌 *Click to watch the full demo in action*
 
