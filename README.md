@@ -80,3 +80,16 @@ Want to collaborate or learn more?
 
 - 📧 Email: `anand.ipshika@gmail.com`
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ipshika-anand-b4b6b9250/)
+
+
+## 📌 Authors
+
+1. Ritika Bist
+2. Sanika Ghag
+3. Ipshika Anand
+
+Special Thanks to our guides:
+1. Prof. Aarti Dharmani ma'am
+2. Prof. Merrin Solomon ma'am
+
+Also, thanking Prof. Vaibhav Dhore sir and Mr. Vishram Bapat sir for your invaluable mentorship in our journey!
